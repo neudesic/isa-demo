@@ -11,3 +11,9 @@ This demo was written in Python. It assumes that the user has Python setup on th
 - [configure AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
 - [install Node.js](https://nodejs.org/en/download/) (used for Serverless Framework)
 - [install Serverless Framework](https://www.serverless.com/framework/docs/providers/aws/guide/installation/)
+
+## Hello World API
+
+- `serverless --help`
+- `serverless create --help`
+  -sls

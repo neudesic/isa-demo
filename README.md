@@ -16,4 +16,4 @@ This demo was written in Python. It assumes that the user has Python setup on th
 
 - `serverless --help`
 - `serverless create --help`
-  -sls
+- `sls create -t "aws-python" -n "hello-world"`

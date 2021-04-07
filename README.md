@@ -12,7 +12,7 @@ This demo was written in Python. It assumes that the user has Python setup on th
 - [install Node.js](https://nodejs.org/en/download/) (used for Serverless Framework)
 - [install Serverless Framework](https://www.serverless.com/framework/docs/providers/aws/guide/installation/)
 
-## Hello World API
+## Step 0: Hello World Lambda
 
 - `serverless --help`
 - `serverless create --help`
